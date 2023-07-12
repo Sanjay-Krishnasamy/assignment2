@@ -1,0 +1,52 @@
+1> See the balance
+2> update phone & pin number
+3> insert element
+1
+enter acc_no
+9874
+250000
+1> See the balance
+2> update phone & pin number 
+3> insert element
+2
+enter acc_no
+9874
+enter phone no
+948870
+enter pin no
+2020
+driver loaded
+connection
+12 sanjay 234565 st145 23464 Salem Saving KVB 123456
+123 muhil 1507 dar123 250090 Salem current ICICI 123456
+1234 vishal 1511 San123 25000 Namakkal Saving CNRB 654123
+12345 sanmathiy 1410 Jee123 50000 Namakkal current SBI 789654
+1> See the balance
+2> update phone & pin 
+3> insert all element
+3
+enter acc_no
+12
+enter phone no
+902594
+enter pin no
+2023
+enter acc name
+raj
+enter pan no
+ks596
+enter balance
+50000
+enter Address
+Covai
+enter Acc_type
+current
+enter Bank
+HFC
+driver loaded
+connection
+insertion complete;
+1> See the balance
+2> update phone & pin number
+3> insert element
+4
